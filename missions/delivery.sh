@@ -1,6 +1,14 @@
 #! /bin/bash
 
-TAG=w1
+TAG=$1
+
+if [ "$TAG" = "" ]
+then
+  echo "Missing tag identifier"
+  exit 1
+fi
+
+echo "Using tag: ${TAG}\n"
 
 ERROR=0
 
@@ -8,7 +16,7 @@ function main()
 {
     for d in _deliveries/a2*
     do
-        ID=`echo $d | cut -d '-' -f 5`
+        ID=`echo $d | rev | cut -d '-' -f 1 | rev`
         cd $d
         echo "# Processing Team ${ID} -- start"
         check_environment $ID

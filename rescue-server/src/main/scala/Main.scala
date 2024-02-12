@@ -5,6 +5,7 @@ object Main extends App {
 
     // mvn -q package exec:java -Dexec.mainClass=Main
 
-    Mission01 run
+    // Mission01 run
+    Mission02 run
 
 }
