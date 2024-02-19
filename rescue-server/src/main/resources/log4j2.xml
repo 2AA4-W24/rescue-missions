@@ -2,7 +2,7 @@
 <Configuration status="ERROR">
     <Appenders>
         <Console name="console" target="SYSTEM_OUT">
-            <PatternLayout pattern="[%-5level] %logger{0} %msg%n" />
+            <PatternLayout pattern="[%-5level] %logger{15} %msg%n" />
         </Console>
     </Appenders>
 
