@@ -1,0 +1,503 @@
+# Processing Team 219 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Fri Feb 16 01:07:52 2024 -0500
+# pom.xml/artifactId == [team219]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team219]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 219 -- end
+
+# Processing Team 101 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Sat Feb 10 00:38:27 2024 -0500
+# pom.xml/artifactId == [team101]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team101]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 101 -- end
+
+# Processing Team 102 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 23:48:56 2024 -0500
+# pom.xml/artifactId == [team102]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team102]: OK
+# LOC counter [main]: 303
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 102 -- end
+
+# Processing Team 103 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sat Feb 10 17:48:55 2024 -0500
+# pom.xml/artifactId == [team103]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team103]: OK
+# LOC counter [main]: 269
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 103 -- end
+
+# Processing Team 104 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Thu Feb 15 18:58:52 2024 -0500
+# pom.xml/artifactId == [team104]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team104]: OK
+# LOC counter [main]: 418
+# LOC counter [test]: 12
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 104 -- end
+
+# Processing Team 105 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Thu Feb 1 15:05:40 2024 -0500
+# pom.xml/artifactId == [team105]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team105]: OK
+# LOC counter [main]: 66
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 105 -- end
+
+# Processing Team 106 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 20:57:20 2024 -0500
+# pom.xml/artifactId == [team106]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team106]: OK
+# LOC counter [main]: 551
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 106 -- end
+
+# Processing Team 107 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 17:48:08 2024 -0500
+# pom.xml/artifactId == [team107]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team107]: OK
+# LOC counter [main]: 449
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 107 -- end
+
+# Processing Team 108 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 23:27:57 2024 -0500
+# pom.xml/artifactId == [team108]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team108]: OK
+# LOC counter [main]: 154
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 108 -- end
+
+# Processing Team 109 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Thu Feb 1 14:49:14 2024 -0500
+# pom.xml/artifactId == [team109]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team109]: OK
+# LOC counter [main]: 66
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 109 -- end
+
+# Processing Team 110 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Fri Feb 16 12:13:42 2024 -0500
+# pom.xml/artifactId == [team110]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team110]: OK
+# LOC counter [main]: 205
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 110 -- end
+
+# Processing Team 111 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 17:16:19 2024 -0500
+# pom.xml/artifactId == [team111]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team111]: OK
+# LOC counter [main]: 312
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 111 -- end
+
+# Processing Team 112 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Sun Feb 11 23:50:32 2024 -0500
+# pom.xml/artifactId == [team112]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team112]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 112 -- end
+
+# Processing Team 113 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Thu Feb 15 17:01:33 2024 -0500
+# pom.xml/artifactId == [team113]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team113]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 113 -- end
+
+# Processing Team 115 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 23:10:34 2024 -0500
+# pom.xml/artifactId == [team115]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team115]: OK
+# LOC counter [main]: 77
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 115 -- end
+
+# Processing Team 116 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 22:23:50 2024 -0500
+# pom.xml/artifactId == [team116]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team116]: OK
+# LOC counter [main]: 347
+# LOC counter [test]: 109
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 116 -- end
+
+# Processing Team 118 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 23:40:25 2024 -0500
+# pom.xml/artifactId == [team118]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team118]: OK
+# LOC counter [main]: 303
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 118 -- end
+
+# Processing Team 119 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 11 22:04:30 2024 -0500
+# pom.xml/artifactId == [team119]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team119]: OK
+# LOC counter [main]: 256
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 119 -- end
+
+# Processing Team 120 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 16:24:11 2024 -0500
+# pom.xml/artifactId == [team120]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team120]: OK
+# LOC counter [main]: 66
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 120 -- end
+
+# Processing Team 121 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Tue Feb 13 17:01:25 2024 -0500
+# pom.xml/artifactId == [team121]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team121]: OK
+# LOC counter [main]: 245
+# LOC counter [test]: 89
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 121 -- end
+
+# Processing Team 122 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Tue Feb 6 13:10:47 2024 -0500
+# pom.xml/artifactId == [team122]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team122]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 122 -- end
+
+# Processing Team 201 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sat Feb 10 23:08:26 2024 -0500
+# pom.xml/artifactId == [team201]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team201]: OK
+# LOC counter [main]: 284
+# LOC counter [test]: 66
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 201 -- end
+
+# Processing Team 202 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 23:22:59 2024 -0500
+# pom.xml/artifactId == [team202]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team202]: OK
+# LOC counter [main]: 190
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 202 -- end
+
+# Processing Team 203 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 17:31:22 2024 -0500
+# pom.xml/artifactId == [team203]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team203]: OK
+# LOC counter [main]: 220
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 203 -- end
+
+# Processing Team 204 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sat Feb 17 23:03:42 2024 -0500
+# pom.xml/artifactId == [team204]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team204]: OK
+# LOC counter [main]: 257
+# LOC counter [test]: 34
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 204 -- end
+
+# Processing Team 205 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 22:00:59 2024 -0500
+# pom.xml/artifactId == [team205]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team205]: OK
+# LOC counter [main]: 304
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 205 -- end
+
+# Processing Team 206 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Sun Feb 11 20:48:00 2024 -0500
+# pom.xml/artifactId == [team206]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team206]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 206 -- end
+
+# Processing Team 207 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 11 23:20:10 2024 -0500
+# pom.xml/artifactId == [team207]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team207]: OK
+# LOC counter [main]: 161
+# LOC counter [test]: 18
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 207 -- end
+
+# Processing Team 208 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Sun Feb 18 21:02:19 2024 -0500
+# pom.xml/artifactId == [team208]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team208]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 208 -- end
+
+# Processing Team 209 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Thu Feb 15 19:13:01 2024 -0500
+# pom.xml/artifactId == [team209]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team209]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 209 -- end
+
+# Processing Team 210 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sat Feb 17 15:00:21 2024 -0500
+# pom.xml/artifactId == [team210]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team210]: OK
+# LOC counter [main]: 238
+# LOC counter [test]: 23
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 210 -- end
+
+# Processing Team 211 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Fri Feb 16 16:47:57 2024 -0500
+# pom.xml/artifactId == [team211]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team211]: OK
+# LOC counter [main]: 668
+# LOC counter [test]: 117
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 211 -- end
+
+# Processing Team 212 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Thu Feb 15 15:53:56 2024 -0500
+# pom.xml/artifactId == [team212]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team212]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 212 -- end
+
+# Processing Team 213 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Sun Feb 11 16:10:42 2024 -0500
+# pom.xml/artifactId == [team213]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team213]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 213 -- end
+
+# Processing Team 214 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Sun Feb 18 19:51:32 2024 -0500
+# pom.xml/artifactId == [team214]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team214]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 214 -- end
+
+# Processing Team 215 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 11 19:23:08 2024 -0500
+# pom.xml/artifactId == [team215]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team215]: OK
+# LOC counter [main]: 142
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 215 -- end
+
+# Processing Team 216 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Mon Feb 12 22:22:37 2024 -0500
+# pom.xml/artifactId == [team216]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team216]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 216 -- end
+
+# Processing Team 217 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Sun Feb 11 19:34:04 2024 -0500
+# pom.xml/artifactId == [team217]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team217]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 217 -- end
+
+# Processing Team 218 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Thu Feb 8 21:21:37 2024 -0500
+# pom.xml/artifactId == [team218]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team218]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 218 -- end
+
+# Processing Team 220 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Tue Feb 13 19:29:56 2024 -0500
+# pom.xml/artifactId == [team220]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team220]: OK
+# LOC counter [main]: 95
+# LOC counter [test]: 9
+# Building using Maven [install]: FAILURE
+# ABORT: Code does not compile / Impossible to operate
+# Processing Team 220 -- end
+
+# Processing Team 221 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Thu Feb 15 20:08:04 2024 -0500
+# pom.xml/artifactId == [team221]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team221]: OK
+# LOC counter [main]: 325
+# LOC counter [test]: 101
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 221 -- end
+
+# Processing Team 222 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 11 15:36:27 2024 -0500
+# pom.xml/artifactId == [team222]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team222]: OK
+# LOC counter [main]: 134
+# LOC counter [test]: 9
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 222 -- end
+
+# Processing Team 223 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Wed Feb 7 06:49:25 2024 +0000
+# pom.xml/artifactId == [team223]: FAILURE
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team223]: FAILURE
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 223 -- end
+
+# Processing Team 301 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Fri Feb 16 09:37:59 2024 -0500
+# pom.xml/artifactId == [team301]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team301]: OK
+# LOC counter [main]: 163
+# LOC counter [test]: 49
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 301 -- end
+
+# Processing Team 302 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Tue Feb 6 20:44:05 2024 -0500
+# pom.xml/artifactId == [team302]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team302]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 302 -- end
+
+# Processing Team 303 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Wed Feb 14 21:23:49 2024 -0500
+# pom.xml/artifactId == [team303]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team303]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 303 -- end
+
+# Processing Team 304 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Tue Feb 6 20:36:48 2024 -0500
+# pom.xml/artifactId == [team304]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team304]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 304 -- end
+
+# Processing Team 305 -- start
+# Checking out tag [w3]: FAILURE
+# Git stamp: Date:   Fri Feb 9 21:13:37 2024 -0500
+# pom.xml/artifactId == [team305]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team305]: OK
+# ABORT: Environment is not OK for rescue mission
+# Processing Team 305 -- end
+
+# Processing Team 306 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 18 19:22:17 2024 -0500
+# pom.xml/artifactId == [team306]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team306]: OK
+# LOC counter [main]: 277
+# LOC counter [test]: 50
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 306 -- end
+
+# Processing Team 307 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 11 23:27:30 2024 -0500
+# pom.xml/artifactId == [team307]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team307]: OK
+# LOC counter [main]: 302
+# LOC counter [test]: 44
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 307 -- end
+
+# Processing Team 308 -- start
+# Checking out tag [w3]: OK
+# Git stamp: Date:   Sun Feb 11 19:19:15 2024 -0500
+# pom.xml/artifactId == [team308]: OK
+# Checking existence of [src/main/java/ca/mcmaster/se2aa4/island/team308]: OK
+# LOC counter [main]: 298
+# LOC counter [test]: 110
+# Building using Maven [install]: OK
+# SUCCESSFUL DELIVERY FOR RESCUE MISSION!
+# Processing Team 308 -- end
