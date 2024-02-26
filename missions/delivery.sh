@@ -39,6 +39,7 @@ function check_environment()
     git_tag_time
     xml_key_value pom.xml artifactId team${ID}
     exists_dir src/main/java/ca/mcmaster/se2aa4/island/team${ID}
+    exists_file src/main/java/ca/mcmaster/se2aa4/island/team${ID}/Explorer.java
 }
 
 

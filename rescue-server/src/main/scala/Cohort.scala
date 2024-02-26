@@ -31,7 +31,7 @@ trait Cohort extends Teams {
     "team201" ->  classOf[ca.mcmaster.se2aa4.island.team201.Explorer],
     "team202" ->  classOf[ca.mcmaster.se2aa4.island.team202.Explorer],
     "team203" ->  classOf[ca.mcmaster.se2aa4.island.team203.Explorer],
-    "team204" ->  classOf[ca.mcmaster.se2aa4.island.team204.Explorer],
+    //"team204" ->  classOf[ca.mcmaster.se2aa4.island.team204.Explorer],
     "team205" ->  classOf[ca.mcmaster.se2aa4.island.team205.Explorer],
     "team206" ->  classOf[ca.mcmaster.se2aa4.island.team206.Explorer],
     "team207" ->  classOf[ca.mcmaster.se2aa4.island.team207.Explorer],
