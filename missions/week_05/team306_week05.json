@@ -1,0 +1,37 @@
+[{
+  "data": {
+    "heading": "E",
+    "men": 10,
+    "contracts": [{
+      "amount": 2000,
+      "resource": "WOOD"
+    }],
+    "budget": 20000
+  },
+  "part": "Engine",
+  "time": 1709567921161,
+  "meth": "initialize"
+},{
+  "data": {
+    "exception": ["IllegalArgumentException"],
+    "stacktrace": [[
+      "java.base/java.lang.Enum.valueOf(Enum.java:293)",
+      "ca.mcmaster.se2aa4.island.team306.Direction.valueOf(Direction.java:3)",
+      "ca.mcmaster.se2aa4.island.team306.Explorer.initialize(Explorer.java:30)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply$mcV$sp(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": ["No enum constant ca.mcmaster.se2aa4.island.team306.Direction.E"]
+  },
+  "part": "Explorer",
+  "time": 1709567921161,
+  "meth": "initialize"
+}]

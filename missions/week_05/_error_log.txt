@@ -1,0 +1,2 @@
+[ERROR] ca.mcmaster.se2aa4.island.team110.JsonTranslator Error reading file: {"cost":5,"extras":{},"status":"OK"}
+java.io.FileNotFoundException: {"cost":5,"extras":{},"status":"OK"} (No such file or directory)

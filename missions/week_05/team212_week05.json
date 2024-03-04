@@ -1,0 +1,31 @@
+[{
+  "data": {
+    "heading": "E",
+    "men": 10,
+    "contracts": [{
+      "amount": 2000,
+      "resource": "WOOD"
+    }],
+    "budget": 20000
+  },
+  "part": "Engine",
+  "time": 1709567913159,
+  "meth": "initialize"
+},{
+  "data": {
+    "parameter": {"direction": "N"},
+    "action": "stop"
+  },
+  "part": "Explorer",
+  "time": 1709567913159,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1709567913159,
+  "meth": "takeDecision"
+}]
