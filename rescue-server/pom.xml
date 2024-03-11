@@ -16,7 +16,7 @@
     <encoding>UTF-8</encoding>
     <!-- Software dependencies version-->
     <scala.version>2.11.12</scala.version>
-    <island.version>3.0</island.version>
+    <island.version>3.1</island.version>
   </properties>
 
 

@@ -1,0 +1,195 @@
+[FATAL] ca.mcmaster.se2aa4.island.team306.Aborter Our mission failed
+[ERROR] ca.mcmaster.se2aa4.island.team103.Drone OUT OF BATTERY
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 5
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 5
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 6
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 6
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 7
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 7
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 8
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 8
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 9
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 9
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 10
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 10
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 11
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 11
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 12
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 12
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 13
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 13
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 14
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 14
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 15
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 15
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 16
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 16
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 17
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 17
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 18
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 18
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 19
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 19
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 20
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 20
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 21
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 21
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 22
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 22
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 23
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 23
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 24
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 24
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 25
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 25
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 26
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 26
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 27
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 27
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 28
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 28
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 29
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 29
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 30
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 30
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 31
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 31
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 32
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 32
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 33
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 33
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 34
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 34
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 35
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 35
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 36
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 36
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 37
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 37
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 38
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 38
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 39
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 39
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 40
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 40
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 41
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 41
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 42
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 42
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 43
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 43
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 44
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 44
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 45
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 45
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 46
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 46
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 47
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 47
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 48
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 48
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator Island X Coordinates
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 49
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 49
+[ERROR] ca.mcmaster.se2aa4.island.team215.GridSearchNavigator 4
+[ERROR] ca.mcmaster.se2aa4.island.team122.Explorer ___> dc: initialize
+[ERROR] ca.mcmaster.se2aa4.island.team122.Drone.Drone the action to do is:  echo
+[ERROR] ca.mcmaster.se2aa4.island.team122.DecisionCollector ------ Decision Collector ------ echo
+[ERROR] ca.mcmaster.se2aa4.island.team122.Explorer ___> dc: echo
+[ERROR] ca.mcmaster.se2aa4.island.team122.Drone.Drone the action to do is:  scan
+[ERROR] ca.mcmaster.se2aa4.island.team122.DecisionCollector ------ Decision Collector ------ scan
+[ERROR] ca.mcmaster.se2aa4.island.team122.Explorer ___> dc: scan
+[ERROR] ca.mcmaster.se2aa4.island.team122.Drone.Drone the action to do is:  stop
+[ERROR] ca.mcmaster.se2aa4.island.team122.DecisionCollector ------ Decision Collector ------ stop

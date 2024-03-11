@@ -1,0 +1,55 @@
+[{
+  "data": {
+    "heading": "E",
+    "men": 10,
+    "contracts": [{
+      "amount": 2000,
+      "resource": "WOOD"
+    }],
+    "budget": 15000
+  },
+  "part": "Engine",
+  "time": 1710192135310,
+  "meth": "initialize"
+},{
+  "data": {"action": "stop"},
+  "part": "Explorer",
+  "time": 1710192135311,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1710192135311,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "exception": ["IndexOutOfBoundsException"],
+    "stacktrace": [[
+      "java.base/java.util.LinkedList.checkElementIndex(LinkedList.java:566)",
+      "java.base/java.util.LinkedList.get(LinkedList.java:487)",
+      "ca.mcmaster.se2aa4.island.team307.EchoResultQueue.get(EchoResultQueue.java:39)",
+      "ca.mcmaster.se2aa4.island.team307.EchoOp.checkWhatInFront(EchoOp.java:32)",
+      "ca.mcmaster.se2aa4.island.team307.InterlaceScan.isReachGround(InterlaceScan.java:67)",
+      "ca.mcmaster.se2aa4.island.team307.DecisionBot.isReachedGround(DecisionBot.java:64)",
+      "ca.mcmaster.se2aa4.island.team307.Explorer.acknowledgeResults(Explorer.java:96)",
+      "eu.ace_design.island.game.Engine$$anonfun$process$1$1.apply$mcV$sp(Engine.scala:71)",
+      "eu.ace_design.island.game.Engine$$anonfun$process$1$1.apply(Engine.scala:71)",
+      "eu.ace_design.island.game.Engine$$anonfun$process$1$1.apply(Engine.scala:71)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": ["Index: 0, Size: 0"]
+  },
+  "part": "Explorer",
+  "time": 1710192135311,
+  "meth": "acknowledgeResults"
+}]
