@@ -1,0 +1,661 @@
+[ERROR] ca.mcmaster.se2aa4.island.team211.Explorer java.lang.NullPointerException: Cannot invoke "org.json.JSONArray.length()" because "this.drone.currentBiomes" is null
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Drone.DumbDecisionMaker false,false
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Drone.DumbDecisionMaker false,false
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Drone.DumbDecisionMaker false,false
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Drone.DumbDecisionMaker false,true
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile Have not echoed yet
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team122.Tile the tile has been intialized
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 7
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 6
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 5
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 4
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 9
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 8
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 7
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 6
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 5
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 4
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 14
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 13
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 12
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 11
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 10
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 9
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 8
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 7
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 6
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 5
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 4
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 18
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 17
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 16
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 15
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 14
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 13
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 12
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 11
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 10
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 9
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 8
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 7
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 6
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 5
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 4
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 7
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 6
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 5
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 4
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 7
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 6
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 5
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 4
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 3
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 2
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 1
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: 0
+[ERROR] ca.mcmaster.se2aa4.island.team110.Phases.iFirstPass Flying towards ground, distance left: -1

@@ -17,8 +17,8 @@ trait Cohort extends Teams {
     "team110" ->  classOf[ca.mcmaster.se2aa4.island.team110.Explorer],
     "team111" ->  classOf[ca.mcmaster.se2aa4.island.team111.Explorer],
     "team112" ->  classOf[ca.mcmaster.se2aa4.island.team112.Explorer],
-    //"team113" ->  classOf[ca.mcmaster.se2aa4.island.team113.Explorer],
-    //"team114" ->  classOf[ca.mcmaster.se2aa4.island.team114.Explorer],
+    "team113" ->  classOf[ca.mcmaster.se2aa4.island.team113.Explorer],
+    "team114" ->  classOf[ca.mcmaster.se2aa4.island.team114.Explorer],
     "team115" ->  classOf[ca.mcmaster.se2aa4.island.team115.Explorer],
     "team116" ->  classOf[ca.mcmaster.se2aa4.island.team116.Explorer],
     //"team117" ->  classOf[ca.mcmaster.se2aa4.island.team117.Explorer],
@@ -46,7 +46,7 @@ trait Cohort extends Teams {
     //"team216" ->  classOf[ca.mcmaster.se2aa4.island.team216.Explorer],
     "team217" ->  classOf[ca.mcmaster.se2aa4.island.team217.Explorer],
     //"team218" ->  classOf[ca.mcmaster.se2aa4.island.team218.Explorer],
-    //"team219" ->  classOf[ca.mcmaster.se2aa4.island.team219.Explorer],
+    "team219" ->  classOf[ca.mcmaster.se2aa4.island.team219.Explorer],
     "team220" ->  classOf[ca.mcmaster.se2aa4.island.team220.Explorer],
     "team221" ->  classOf[ca.mcmaster.se2aa4.island.team221.Explorer],
     "team222" ->  classOf[ca.mcmaster.se2aa4.island.team222.Explorer],
@@ -55,12 +55,11 @@ trait Cohort extends Teams {
     "team301" ->  classOf[ca.mcmaster.se2aa4.island.team301.Explorer],
     "team302" ->  classOf[ca.mcmaster.se2aa4.island.team302.Explorer],
     "team303" ->  classOf[ca.mcmaster.se2aa4.island.team303.Explorer],
-    //"team304" ->  classOf[ca.mcmaster.se2aa4.island.team304.Explorer],
+    "team304" ->  classOf[ca.mcmaster.se2aa4.island.team304.Explorer],
     "team305" ->  classOf[ca.mcmaster.se2aa4.island.team305.Explorer],
     "team306" ->  classOf[ca.mcmaster.se2aa4.island.team306.Explorer],
     "team307" ->  classOf[ca.mcmaster.se2aa4.island.team307.Explorer],
     "team308" ->  classOf[ca.mcmaster.se2aa4.island.team308.Explorer]
-
   )
 
 

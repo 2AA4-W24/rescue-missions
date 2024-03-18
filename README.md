@@ -21,7 +21,7 @@
 | 04 | [delivery](missions/week_04/delivery_log.txt) | [simulation](missions/week_04/README.md) | [map](missions/week_04/_map.pdf) | [pois](./missions/week_04/_pois.json) | [errors](./missions/week_04/_error_log.txt)
 | 05 | [delivery](missions/week_05/delivery_log.txt) | [simulation](missions/week_05/README.md) | [map](missions/week_05/_map.pdf) | [pois](./missions/week_05/_pois.json) | [errors](./missions/week_05/_error_log.txt)
 | 06 | [delivery](missions/week_06/delivery_log.txt) | [simulation](missions/week_06/README.md) | [map](missions/week_06/_map.pdf) | [pois](./missions/week_06/_pois.json) | [errors](./missions/week_06/_error_log.txt)
-| 07 |||||
+| 07 | [delivery](missions/week_07/delivery_log.txt) | [simulation](missions/week_07/README.md) | [map](missions/week_07/_map.pdf) | [pois](./missions/week_07/_pois.json) | [errors](./missions/week_07/_error_log.txt)
 | 08 |||||
 
 </div>

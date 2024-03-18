@@ -11,5 +11,6 @@ object Main extends App {
     // Mission03 run
     // Mission04 run
     // Mission05 run
-    Mission06 run
+    // Mission06 run
+    Mission07 run
 }

@@ -104,7 +104,7 @@
       <artifactId>team112</artifactId>
       <version>1.0</version>
     </dependency>
-    <!--<dependency>
+    <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team113</artifactId>
       <version>1.0</version>
@@ -113,7 +113,7 @@
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team114</artifactId>
       <version>1.0</version>
-    </dependency> -->
+    </dependency>
     <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team115</artifactId>
@@ -244,12 +244,12 @@
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team218</artifactId>
       <version>1.0</version>
-    </dependency>
+    </dependency> -->
     <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team219</artifactId>
       <version>1.0</version>
-    </dependency>-->
+    </dependency>
     <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team220</artifactId>
@@ -287,11 +287,11 @@
       <artifactId>team303</artifactId>
       <version>1.0</version>
     </dependency>
-    <!-- <dependency>
+    <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team304</artifactId>
       <version>1.0</version>
-    </dependency> -->
+    </dependency>
     <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team305</artifactId>
