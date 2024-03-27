@@ -3,7 +3,6 @@ import language.postfixOps
 
 object Main extends App {
 
-
     // mvn -q package exec:java -Dexec.mainClass=Main
 
     // Mission01 run
@@ -12,5 +11,6 @@ object Main extends App {
     // Mission04 run
     // Mission05 run
     // Mission06 run
-    Mission07 run
+    // Mission07 run
+    Mission08.run()
 }
