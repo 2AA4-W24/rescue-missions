@@ -230,21 +230,21 @@
       <artifactId>team215</artifactId>
       <version>1.0</version>
     </dependency>
-    <!-- <dependency>
+    <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team216</artifactId>
       <version>1.0</version>
-    </dependency>-->
+    </dependency>
     <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team217</artifactId>
       <version>1.0</version>
     </dependency>
-    <!--<dependency>
+    <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team218</artifactId>
       <version>1.0</version>
-    </dependency> -->
+    </dependency>
     <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team219</artifactId>
@@ -265,11 +265,11 @@
       <artifactId>team222</artifactId>
       <version>1.0</version>
     </dependency>
-    <!-- <dependency>
+    <dependency>
       <groupId>io.github.ace-lectures.2aa4.island</groupId>
       <artifactId>team223</artifactId>
       <version>1.0</version>
-    </dependency> -->
+    </dependency>
 
 
     <dependency>
